@@ -2,7 +2,7 @@ The Apple II mini is an open source miniature retro computer in the style of the
 
 The case design is published at https://berlonce.github.io/apple-ii-mini. (comin soon)
 
-The board can be purchased at https://www.olimex.com.
+The board can be purchased at https://www.olimex.com/Products/Retro-Computers/Neo6502.
 
 The software is published at https://github.com/vsladkov/reload-emulator.
 
