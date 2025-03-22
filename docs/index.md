@@ -4,6 +4,6 @@ The case design is published at https://berlonce.github.io/apple-ii-mini. (comin
 
 The board can be purchased at https://www.olimex.com.
 
-The software is publisfed at https://github.com/vsladkov/reload-emulator.
+The software is published at https://github.com/vsladkov/reload-emulator.
 
 Links to pre-built firmware and instructions to load it comin soon.
