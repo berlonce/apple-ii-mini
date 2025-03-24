@@ -6,4 +6,4 @@ The board can be purchased at the [Olimex Site](https://www.olimex.com/Products/
 
 The software is published on [Github](https://github.com/vsladkov/reload-emulator).
 
-Links to pre-built firmware and instructions to load it comin soon.
+Links to pre-built firmware and instructions to load it coming soon.
